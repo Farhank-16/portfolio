@@ -5,7 +5,7 @@ const experienceData = [
   {
     id: 1,
     role: "Full Stack Development Intern",
-    company: "Car Dekho Group",
+    company: "CollegeDekho",
     duration: "05/2026 – Present",
     location: "Jaipur, Rajasthan",
   },
@@ -26,7 +26,7 @@ const Experience = () => {
     >
       <section className="flex items-center gap-4 pt-2">
         <hr className="h-1 w-12 bg-gray-600 rounded-full" />
-        <p className="text-2xl font-medium">&lt;My Experience &nbsp;/&gt;</p>
+        <p className="text-2xl font-medium">&lt;My Experience/&gt;</p>
       </section>
 
       <section className="flex  flex-col gap-6 p-2 lg:p-4">

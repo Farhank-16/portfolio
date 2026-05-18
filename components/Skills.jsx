@@ -103,7 +103,7 @@ const Skills = () => {
         <section className="flex items-center gap-4 pb-8">
         <hr className="h-1 w-16 bg-gray-600 rounded-full" />
         <p className="text-xl lg:text-2xl font-medium">
-          &lt;My Skills &nbsp;/&gt;
+          &lt;My Skills/&gt;
         </p>
       </section>
       <div className="w-full lg:w-[90%] mx-auto p-6 lg:p-8 rounded-xl py-8 shadow-sm  flex flex-col gap-6 card items-center">

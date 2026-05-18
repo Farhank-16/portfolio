@@ -44,7 +44,7 @@ const Contact = () => {
     >
       <section className="flex items-center gap-4 pt-2">
         <hr className="h-1 w-12 bg-gray-600 rounded-full" />
-        <p className="text-2xl font-medium">&lt;Contact &nbsp;/&gt;</p>
+        <p className="text-2xl font-medium">&lt;Contact/&gt;</p>
       </section>
 
       <h1 className="md:text-4xl text-3xl font-bold text-emerald-700 text-center">Let's build Something together</h1>

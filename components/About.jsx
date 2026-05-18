@@ -24,7 +24,7 @@ const About = () => {
       {/* Section Heading */}
       <section className="flex items-center gap-4 pb-8">
         <hr className="h-1 w-16 bg-gray-700 rounded-full" />
-        <p className="font-medium text-xl lg:text-2xl">&lt;About &nbsp;/&gt;</p>
+        <p className="font-medium text-xl lg:text-2xl">&lt;About/&gt;</p>
       </section>
 
       {/* Main Container */}

@@ -11,7 +11,7 @@ const Projects = () => {
     >
       <section className="flex items-center gap-4 pt-2">
         <hr className="h-1 w-12 bg-gray-600 rounded-full" />
-        <p className="text-2xl font-medium">&lt;My Projects &nbsp;/&gt;</p>
+        <p className="text-2xl font-medium">&lt;My Projects/&gt;</p>
       </section>
 
       {/* Projects Section */}
