@@ -11,7 +11,7 @@ import bgImg from "../public/hero/bg.png";
 
 const Hero = () => {
   const handleDownloadResume = () => {
-    const resumeUrl = "/resume/Farhan_Khan_CV.pdf";
+    const resumeUrl = "/resume/Farhan Khan CV.pdf";
     window.open(resumeUrl, "_blank");
   };
   return (
